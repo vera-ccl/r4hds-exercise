@@ -2,6 +2,9 @@ HDAT9700 Statistical Modelling II
 ================
 Mark Hanly
 
+Knit before you commit and push, you will see the .Rmd and .md file,
+push both to hand in the assignment!
+
 # Overview
 
 The examples and exercises in this document are designed to help you you
@@ -127,7 +130,7 @@ A code chunk is introduced with three backticks, followed by {r}, and
 then closed with three backticks. For example:
 
 ```` markdown
-``` {r demo}
+```{r demo}
 
 2 + 2
 

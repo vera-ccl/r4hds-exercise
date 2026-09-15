@@ -4,6 +4,8 @@ subtitle: "R for Health data Science---Exercises"
 author: "Mark Hanly"
 output: github_document
 ---
+Knit before you commit and push, you will see the .Rmd and .md file, push both to hand in the assignment! 
+
 
 ```{r setup, include=FALSE}
 # Load libraries
